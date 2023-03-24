@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701808125499",
+    "project_id": "mobikg-d1928",
+    "storage_bucket": "mobikg-d1928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701808125499:android:f498f208d86c45dc6dde1e",
+        "android_client_info": {
+          "package_name": "com.example.mobi_kg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701808125499-jg09g1dc430inddiih6oehnr7fjvg7iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqaQ0olkcNZQfOgzFHplbENYvGku7esk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701808125499-jg09g1dc430inddiih6oehnr7fjvg7iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
